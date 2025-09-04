@@ -181,3 +181,4 @@ Dry-run can be also extracted from the user interface:
 - Then you need to convert it from base64 to binary form and save it to a file
     - You can use `base64 -d` to convert the base64 text to a binary form in the *nix command-line
 - At last, you need to convert the binary form to dry-run using `goal clerk dryrun -t tx.bin --dryrun-dump -o tx.dr`
+- If you have any question with this project, feel free to reach out.
